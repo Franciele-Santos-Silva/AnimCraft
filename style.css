@@ -23,18 +23,18 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-
+    z-index: 3; 
 }
 
 .item .fruit{
     width: 90%;
-    position: absolute;
+    position: absolute; 
     top: 0;
-    z-index: 3;
+    z-index: 2; 
 }
 
 .item .refri{
-    z-index: 2;
+    z-index: 4; 
     width: 600px;
     position: absolute;
     left: 50%;
@@ -54,7 +54,7 @@
     font-size: x-large;
     font-family: monospace;
     cursor: pointer;
-    z-index: 4;
+    z-index: 5; 
     border-radius: 50%;
 }
 
@@ -64,4 +64,19 @@
 
 #next{
     right: 30px;
+}
+
+@keyframes toActive {
+    from {
+        top: 100%;
+        opacity: 0;
+    }
+}
+
+.item.active img.fruit {
+    animation: toActive 0.5s ease-in-out 1;
+}
+
+.item.active .title {
+    animation: toActive 0.5s ease-in-out 1;
 }
