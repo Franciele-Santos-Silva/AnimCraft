@@ -7,10 +7,10 @@ O projeto apresenta transições suaves entre sabores (morango, abacate e laranj
 
 ## Funcionalidades
 
-  •Alternar entre slides com **botões de navegação** (→ e ←)  
-  •Animações suaves na transição de elementos (`@keyframes`)  
-  •Uso de **variáveis CSS dinâmicas** (`--background`)  
-  •Estrutura responsiva e leve  
+  • Alternar entre slides com **botões de navegação** (→ e ←)  
+  • Animações suaves na transição de elementos (`@keyframes`)  
+  • Uso de **variáveis CSS dinâmicas** (`--background`)  
+  • Estrutura responsiva e leve  
 
 ## Tecnologias Utilizadas
 
