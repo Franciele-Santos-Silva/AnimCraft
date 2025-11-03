@@ -4,6 +4,7 @@
 
 O AnimCraft é um carrossel animado de produtos (refrigerantes) desenvolvido com HTML, CSS e JavaScript puro.  
 O projeto apresenta transições suaves entre sabores (morango, abacate e laranja), com foco em design interativo e animações.
+
 **Projeto desenvolvido para fins de aprendizado e prática de animações front-end e interatividade com JavaScript puro.**
 
 ## Funcionalidades
