@@ -7,10 +7,10 @@ O projeto apresenta transições suaves entre sabores (morango, abacate e laranj
 
 ## Funcionalidades
 
-  Alternar entre slides com **botões de navegação** (→ e ←)  
-  Animações suaves na transição de elementos (`@keyframes`)  
-  Uso de **variáveis CSS dinâmicas** (`--background`)  
-  Estrutura responsiva e leve  
+  •Alternar entre slides com **botões de navegação** (→ e ←)  
+  •Animações suaves na transição de elementos (`@keyframes`)  
+  •Uso de **variáveis CSS dinâmicas** (`--background`)  
+  •Estrutura responsiva e leve  
 
 ## Tecnologias Utilizadas
 
@@ -19,19 +19,6 @@ O projeto apresenta transições suaves entre sabores (morango, abacate e laranj
 | **HTML5** | Estrutura base da aplicação |
 | **CSS3** | Estilização e animações |
 | **JavaScript (ES6)** | Lógica do carrossel e eventos dos botões |
-
-## Estrutura do Projeto
-
-AnimCraft/
-│
-├── index.html       # Estrutura principal da página
-├── style.css        # Estilos e animações do carrossel
-├── js/
-│   └── script.js    # Lógica de troca de slides
-└── img/
-    ├── Morango-refrigerante.png
-    ├── Abacate-refrigerante.png
-    └── Laranja-refrigerante.png
 
 ## Como Executar o Projeto
 
