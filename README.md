@@ -1,4 +1,4 @@
-# AnimCraft — Carrossel Interativo de Refrigerantes  
+# AnimCraft
 
 ## Sobre o Projeto
 
