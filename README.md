@@ -7,10 +7,10 @@ O projeto apresenta transições suaves entre sabores (morango, abacate e laranj
 
 ## Funcionalidades
 
-✅ Alternar entre slides com **botões de navegação** (→ e ←)  
-✅ Animações suaves na transição de elementos (`@keyframes`)  
-✅ Uso de **variáveis CSS dinâmicas** (`--background`)  
-✅ Estrutura responsiva e leve  
+  Alternar entre slides com **botões de navegação** (→ e ←)  
+  Animações suaves na transição de elementos (`@keyframes`)  
+  Uso de **variáveis CSS dinâmicas** (`--background`)  
+  Estrutura responsiva e leve  
 
 ## Tecnologias Utilizadas
 
@@ -22,7 +22,6 @@ O projeto apresenta transições suaves entre sabores (morango, abacate e laranj
 
 ## Estrutura do Projeto
 
-    ```
 AnimCraft/
 │
 ├── index.html       # Estrutura principal da página
@@ -33,27 +32,20 @@ AnimCraft/
     ├── Morango-refrigerante.png
     ├── Abacate-refrigerante.png
     └── Laranja-refrigerante.png
-    ```
 
 ## Como Executar o Projeto
 
 1️. Clone o repositório:
 
-    ```bash
-     git clone [URL-do-seu-repositório]
-    ```
+    git clone [URL-do-seu-repositório]
 
 2️. Acesse a pasta do projeto:
 
-    ```bash
     cd AnimCraft
-    ```
 
 3️. Abra o arquivo principal no navegador:
 
-    ```bash
     index.html
-    ```
 
 Ou clique duas vezes sobre ele para abrir direto.
 
@@ -71,4 +63,4 @@ Ou clique duas vezes sobre ele para abrir direto.
 | Abacate | Verde (#2D5643) | Transição lateral |
 | Laranja | Laranja (#E7A043) | Troca suave com efeito vertical |
 
-Projeto desenvolvido para fins de aprendizado e prática de **animações front-end** e **interatividade com JavaScript puro**.  
+**Projeto desenvolvido para fins de aprendizado e prática de animações front-end e interatividade com JavaScript puro.**
