@@ -2,8 +2,9 @@
 
 ## Sobre o Projeto
 
-O **AnimCraft** é um carrossel animado de produtos (refrigerantes) desenvolvido com **HTML, CSS e JavaScript puro**.  
-O projeto apresenta transições suaves entre sabores (morango, abacate e laranja), com foco em **design interativo e animações**.
+O AnimCraft é um carrossel animado de produtos (refrigerantes) desenvolvido com HTML, CSS e JavaScript puro.  
+O projeto apresenta transições suaves entre sabores (morango, abacate e laranja), com foco em design interativo e animações.
+**Projeto desenvolvido para fins de aprendizado e prática de animações front-end e interatividade com JavaScript puro.**
 
 ## Funcionalidades
 
@@ -49,5 +50,3 @@ Ou clique duas vezes sobre ele para abrir direto.
 | Morango | Vermelho (#EA3D41) | Entrada suave com fade |
 | Abacate | Verde (#2D5643) | Transição lateral |
 | Laranja | Laranja (#E7A043) | Troca suave com efeito vertical |
-
-**Projeto desenvolvido para fins de aprendizado e prática de animações front-end e interatividade com JavaScript puro.**
